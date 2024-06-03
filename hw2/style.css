@@ -1,0 +1,11 @@
+body > p:nth-child(-n+3) {color: green;}
+blockquote {color: green;}
+a[href^="https"] {color: #f00;}
+#link {color: #ff8d00;}
+ul + p {font-size: 26px;}
+h1 {border: 1px solid #067b09;}
+.text-box > h3:nth-child(1) {color: pink;}
+#greycol {color: grey;}
+.text-box > div > p {color: red;}
+.text-box p:nth-child(7) {color: green;}
+.text-box > .yellow {color: yellow;}
